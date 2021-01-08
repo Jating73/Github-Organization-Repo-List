@@ -1,0 +1,19 @@
+{
+  "name": "organisation-repo-fetch",
+  "version": "1.0.0",
+  "description": "It fetches the repo list of an organisation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jatin Gambhir",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
