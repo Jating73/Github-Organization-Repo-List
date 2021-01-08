@@ -30,7 +30,5 @@ If the installation was successful, you should be able to run the following comm
     $ npm start
 
 ## Testing with browser
-
-    #### Go to http://localhost:3000/api/org_name
+- #### Go to http://localhost:3000/api/org_name
     Replace org_name with the organisation name of which you want to fetch list of repos.
-    
